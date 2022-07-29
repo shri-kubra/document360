@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+<h1>Ita graviter et severe voluptatem secrevit a bono.</h1>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Illud urgueam, non intellegere eum quid sibi dicendum sit, cum dolorem summum malum esse dixerit. <b>Negare non possum.</b> Et harum quidem rerum facilis est et expedita distinctio. Ergo hoc quidem apparet, nos ad agendum esse natos. Duo Reges: constructio interrete. Satisne ergo pudori consulat, si quis sine teste libidini pareat? Bona autem corporis huic sunt, quod posterius posui, similiora. Bonum patria: miserum exilium. Primum quid tu dicis breve? <mark>Respondent extrema primis, media utrisque, omnia omnibus.</mark> </p>
+
+<ol>
+	<li>Nummus in Croesi divitiis obscuratur, pars est tamen divitiarum.</li>
+	<li>Is ita vivebat, ut nulla tam exquisita posset inveniri voluptas, qua non abundaret.</li>
+	<li>Apparet statim, quae sint officia, quae actiones.</li>
+	<li>Et quae per vim oblatum stuprum volontaria morte lueret inventa est et qui interficeret filiam, ne stupraretur.</li>
+	<li>Tum Piso: Atqui, Cicero, inquit, ista studia, si ad imitandos summos viros spectant, ingeniosorum sunt;</li>
+	<li>Consequentia exquirere, quoad sit id, quod volumus, effectum.</li>
+</ol>
+
+
+<dl>
+	<dt><dfn>Sed nimis multa.</dfn></dt>
+	<dd>Hic ego: Etsi facit hic quidem, inquam, Piso, ut vides, ea, quae praecipis, tamen mihi grata hortatio tua est.</dd>
+	<dt><dfn>Praeteritis, inquit, gaudeo.</dfn></dt>
+	<dd>Se dicere inter honestum et turpe nimium quantum, nescio quid inmensum, inter ceteras res nihil omnino interesse.</dd>
+	<dt><dfn>Respondeat totidem verbis.</dfn></dt>
+	<dd>Res enim se praeclare habebat, et quidem in utraque parte.</dd>
+	<dt><dfn>Bonum liberi: misera orbitas.</dfn></dt>
+	<dd>His singulis copiose responderi solet, sed quae perspicua sunt longa esse non debent.</dd>
+</dl>
+
+
+<ul>
+	<li>Fortitudinis quaedam praecepta sunt ac paene leges, quae effeminari virum vetant in dolore.</li>
+	<li>Si enim ad populum me vocas, eum.</li>
+	<li>Ne amores quidem sanctos a sapiente alienos esse arbitrantur.</li>
+	<li>Nec enim, dum metuit, iustus est, et certe, si metuere destiterit, non erit;</li>
+</ul>
+
+
+<blockquote cite="http://loripsum.net">
+	Atque ab his initiis profecti omnium virtutum et originem et progressionem persecuti sunt.
+</blockquote>
+
+
+<p>Quid, si etiam iucunda memoria est praeteritorum malorum? Recte dicis; In qua quid est boni praeter summam voluptatem, et eam sempiternam? Modo etiam paulum ad dexteram de via declinavi, ut ad Pericli sepulcrum accederem. Si est nihil nisi corpus, summa erunt illa: valitudo, vacuitas doloris, pulchritudo, cetera. Negat enim summo bono afferre incrementum diem. </p>
+
+<p>Honesta oratio, Socratica, Platonis etiam. <code>Occultum facinus esse potuerit, gaudebit;</code> Huius, Lyco, oratione locuples, rebus ipsis ielunior. Quae tamen a te agetur non melior, quam illae sunt, quas interdum optines. Nam, ut sint illa vendibiliora, haec uberiora certe sunt. Sin dicit obscurari quaedam nec apparere, quia valde parva sint, nos quoque concedimus; </p>
+
+<p>Quamquam tu hanc copiosiorem etiam soles dicere. <b>Negat esse eam, inquit, propter se expetendam.</b> Cum autem in quo sapienter dicimus, id a primo rectissime dicitur. Legimus tamen Diogenem, Antipatrum, Mnesarchum, Panaetium, multos alios in primisque familiarem nostrum Posidonium. Hic Speusippus, hic Xenocrates, hic eius auditor Polemo, cuius illa ipsa sessio fuit, quam videmus. Quod, inquit, quamquam voluptatibus quibusdam est saepe iucundius, tamen expetitur propter voluptatem. <b>Nunc agendum est subtilius.</b> Non est ista, inquam, Piso, magna dissensio. </p>
+
+<pre>Zeno autem, quod suam, quod propriam speciem habeat, cur
+appetendum sit, id solum bonum appellat, beatam autem vitam
+eam solam, quae cum virtute degatur.
+
+Nam quid possumus facere melius?
+</pre>
+</body>
+</html>
